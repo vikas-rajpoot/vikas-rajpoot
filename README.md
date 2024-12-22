@@ -58,10 +58,6 @@ I specialize in developing, fine-tuning, and deploying advanced machine learning
 - GATE 2021 (Rank: 3420)  
 - NPTEL: Cloud Computing, Programming in C++, Java, IoT, Privacy, and Security  
 
----
-
-## 📈 **GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikash9899&show_icons=true&theme=radical)
 
 ---
 
