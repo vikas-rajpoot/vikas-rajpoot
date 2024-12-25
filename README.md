@@ -3,7 +3,7 @@
 ## 👋 Hi, I'm **Vikas Rajpoot**  
 🎓 Master's in AI/ML from IIIT Sri City | Bachelor’s in CSE from MITS Gwalior  
 🔬 Machine Learning Engineer at Big Bang Boom Solutions  
-🌐 Passionate about Reinforcemnt Learning, and related cutting-edge research  
+🌐 Passionate about **Reinforcemnt Learning**, and related cutting-edge research  
 
 ---
 
