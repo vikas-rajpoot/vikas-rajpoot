@@ -1,5 +1,3 @@
-# Welcome to My GitHub Profile! 👨‍💻
-
 ## 👋 Hi, I'm **Vikas Rajpoot**  
 🎓 Master's in AI/ML from IIIT Sri City | Bachelor’s in CSE from MITS Gwalior  
 🔬 Machine Learning Engineer at Big Bang Boom Solutions  
