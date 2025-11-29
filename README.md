@@ -1,7 +1,4 @@
 ## 👋 Hi, I'm **Vikas Rajpoot**  
-🎓 Master's in AI/ML from IIIT Sri City | Bachelor’s in CSE from MITS Gwalior  
-🔬 Machine Learning Engineer at Big Bang Boom Solutions  
-🌐 Passionate about **Reinforcemnt Learning**, and related cutting-edge research  
 
 ---
 
@@ -25,9 +22,14 @@ I specialize in developing, fine-tuning, and deploying advanced machine learning
 ---
 
 ## 🎓 **Certifications**  
+
+🎓 Master's in AI/ML from IIIT Sri City | Bachelor’s in CSE from MITS Gwalior  
+🔬 Machine Learning Engineer at Big Bang Boom Solutions  
+🌐 Passionate about **Reinforcemnt Learning**, and related cutting-edge research  
+
+
 - GATE 2021 (Rank: 3420)  
 - NPTEL: Cloud Computing | Programming in C++ | Java | IoT | Privacy | and Security  
-
 
 ---
 
